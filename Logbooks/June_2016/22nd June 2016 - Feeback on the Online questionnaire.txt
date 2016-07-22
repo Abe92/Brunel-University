@@ -1,0 +1,38 @@
+22nd June 2016
+Logbook
+W2 3JR
+
+-> Task: Online questionnaire (Cerebral Vasculature)
+
+	commencing @ 12.48 pm BST
+	finished   @ 14.39 pm BST
+
+	to-do: (1) Robin feedback for question 1
+		 .'Something can be propretary and free but not necessarily open-source'
+	       (2) Sebastian feedback for question 1 + general
+		 .'One has to be very careful with open-source vs free software'
+		 .'Add a free-form question like "Why are you interested in cerebral
+		   vasculature" as one of questions'
+		 .'he is not really working in neuroscience but rather haemodynamics
+		   simulations'
+	
+	suggested course of action:
+		(1) Change the current options, from:
+			(a) Open-source software model (free software)
+			(b) Proprietary software model (paid software)
+			(c) Mixed
+				
+				to
+
+			(a) Open-source libre (free-use, free-of-charge),
+			(b) Open-source gratis (limited use, free-of-charge),
+			(c) Open-source paid (limited use, paid),
+			(d) Closed-source gratis (limited use, free-of-charge),
+			(e) Closed-source paid (limited use, paid),
+			(f) mixed (e.g. mixed comercial/academic codes,
+				multiple programs using different licences)
+		
+		(2) .Remove the term 'Neuroscience'
+		    .Add the free-form question, 'Why are you interested in the study
+		     of cerebral vasculature?' or similar question in that context
+		     (this could be optional question).

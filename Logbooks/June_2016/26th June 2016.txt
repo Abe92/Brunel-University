@@ -1,0 +1,14 @@
+26th June 2016
+Logbook
+W2 3JR
+
+-> Title: Daydreaming for MSc idea(s)
+
+	commencing @ 12.01 pm BST
+	finished   @ 12.02 pm BST
+
+Develop a web application + python functionality to help people explore the cerebral
+vasculature. 
+
+Is it possible to do it, combining HTML5 and CSS with an extra of Python twist to it?
+Lets find out!

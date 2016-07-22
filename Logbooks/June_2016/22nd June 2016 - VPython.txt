@@ -1,0 +1,24 @@
+Wednesday, 22nd June 2016
+Logbook
+W2 3JR
+
+-> Task: Exploring python library
+
+	commencing @ 11.26 am BST
+	finished   @ 11.53 am BST
+
+	-outcome: Found a plugin called VPython
+
+	-what is it: (1) A 3D graphics module for Python
+		     (2) The module can create 3D objects (such as spheres, curves, etc)
+			 and position them in 3D space.
+		     (3) Visual, running in a separate thread, automatically updates
+			 a 3D scene many times per second, to reflect the current positions
+			 of the objects.
+		     (4) The programmer does not need to deal with display management,
+			 but can focus on the computational aspects of the program.
+		     (5) The user can navigate in the 3D scene by using the mouse to
+			 zoom and rotate while the program is running. Visual supports
+			 full vector algebra.
+
+	-thought(s): I think I can use to build a 'script'/'plugin' around this module		

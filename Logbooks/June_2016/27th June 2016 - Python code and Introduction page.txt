@@ -1,0 +1,52 @@
+27th June 2016
+Logbook
+W2 3JR
+
+-> Task: 1. Testing python code
+
+	commencing @ 17.35 pm BST
+	finished   @ 17.42 pm BST
+
+	what I did:
+	(1). Test a 'Pandas' library to open the xtr file which already transform
+	     to text file.
+	(2). The snippet is as follow:
+		
+		import pandas
+		
+		filelist=pandas.read_csv("Drive_name:\\xTR\planeOutTopFirst.txt")
+		filelist
+
+	It returns the content of the file such column names and the value of each
+	columns. Tried to follow-up with:
+
+		filelist.mean()
+
+	It returns this statement:
+		
+		'Series([], dtype: float64)
+
+	(3). The first 3 line is working, however the last one that is to calculate mean
+	     seems require another 'special statement' to actually display what I need.
+	     This what I will have to figure out ASAP 
+
+				or
+
+	     Skip the data analysis part but display the visualization of '3D shapes'
+
+-> Task: 2. Chapter 0 report: Introduction
+
+	commencing @ 13:36 pm BST
+	finished   @ 17.07 pm BST
+
+	what I did:
+
+	Wrote a 3/4 page of introduction explaining about:
+	(1). Cerebral vasculature and
+	(2). Cerebral aneurysm.
+
+	I plan to continue to 'how the study has been conducted to get the data', so there
+	will be a connection with the project proposal. Also to point out, this report
+	is trying heavily stay true with the project proposal.
+		
+	

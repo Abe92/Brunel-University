@@ -1,0 +1,25 @@
+23rd June 2016
+Logbook
+W2 3JR
+
+-> Task: Self-study about Python Programming Language
+
+	commencing @ 11.03 am BST
+	finished   @ 13.02 pm BST
+
+.In 'interactive programing', that is coding in the console; use Shift+Enter to
+execute the entire code block
+
+.'Indentation' is, as many programers understood, important and in Python it looks
+like it's case sensitive. So if one write in this format (focus on the one with arrow):
+
+Below is an example of "if-else conditional statement"
+	if year==realYear:
+		print("Equal")
+		print("Yes,really!")
+	else:
+		print("Non-equal")
+		print("Check those values again!")
+------>	print("I am out of this")
+
+it will print out the text, whether the "if" or "else" condition is satisfied.

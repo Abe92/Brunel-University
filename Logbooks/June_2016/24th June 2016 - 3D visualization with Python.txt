@@ -1,0 +1,17 @@
+24th June 2016
+Logbook
+W2 3JR
+
+-> Task: Researching potential 'modules' to create the visualization tool
+
+	commencing @ 16.01 pm BST
+	finished   @ 16.13 pm BST
+
+			"Avoid reinventing the wheel."	
+
+	Outcome:
+
+	(1). Mayavi - 3D Scientific data visualization and plotting in Python
+		I can potentially use this to create the 3D visualization of the 
+		cerebral vasculature. However, 'plugin' is the only think I can think
+		of for this MSc project.
