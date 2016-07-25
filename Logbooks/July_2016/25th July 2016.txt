@@ -7,6 +7,9 @@ W2 3JR
 	commencing @ 10.28 am BST
 	finished   @ ~12.15 pm BST
 	
+	commencing @ ~18.00 pm BST
+	finished   @ 20.06 pm BST
+	
 -> What I did:
 
 	(1) Continue an extensive research about
@@ -16,7 +19,12 @@ W2 3JR
 		- Algorithm
 		- Examples of implementation
 		
-	(2) Formulating question for meeting
+	(2) Updating chapter 2 of the report (methodologies)
+	
+	commencing @ ~18.00 pm BST
+	finished   @ 20.06 pm BST
+		
+	(3) Formulating question for meeting
 	
 		with: Derek Groen
 		date: 26th July 2016
