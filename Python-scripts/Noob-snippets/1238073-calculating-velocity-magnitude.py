@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Calculating velocity vector (_magnitude_)
+Calculating velocity vector (magnitude)
 """
 from math import pow,sqrt
 
