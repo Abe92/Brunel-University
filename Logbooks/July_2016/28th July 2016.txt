@@ -10,5 +10,14 @@ W2 3JR
 what I did:
 
 	(1) Prepare the data requires for plot
-	
 	(2) Plot the data using Python
+	
+-> Task: Continue writing chapter 2 (Methodologies)
+
+	commencing @ 15.20 pm BST
+	finished   @ 15.45 pm BST
+	
+what I did: 
+
+	(1) Expand the sub_chapter 2.1
+	(2) Start writing the sub_chapter 2.2
