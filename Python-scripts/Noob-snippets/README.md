@@ -1,5 +1,4 @@
 
-All *newbie snippet codes are stored here.
+All newbie snippet codes are stored here.
 
-
-* It means my snippet codes that requires improvement
+* Any snippet codes that requires improvement and currently written in _inefficient_ way
