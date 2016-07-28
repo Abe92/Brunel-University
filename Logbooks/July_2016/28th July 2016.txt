@@ -21,3 +21,12 @@ what I did:
 
 	(1) Expand the sub_chapter 2.1
 	(2) Start writing the sub_chapter 2.2
+
+-> Task: Create another plots
+
+	commencing @ 18.00 pm BST
+	finished   @ 18.57 pm BST
+	
+what I did:
+
+	(1) Create figures for plane data against the velocity vectors
