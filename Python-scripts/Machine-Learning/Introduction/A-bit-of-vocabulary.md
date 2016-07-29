@@ -5,7 +5,7 @@ cited from: _IPython Interactive Computing and Visualization Cookbook_
                                Packt Publishing
                         
 In machine learning, most data can be represented as a _table of numerical values_.
-Every _row_ is called an __observation__, a __sample___, or a __data point___.
+Every _row_ is called an __observation__, a __sample__, or a __data point__.
 Every _column_ is called a __feature__ or a __variable__.
 
 Let's call _N_ the number of rows (or the number of points) and _D_ the number of columns
