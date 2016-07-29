@@ -1,0 +1,14 @@
+29th July 2016
+Logbook
+W2 3JR
+
+-> Task: Exploring machine learning concepts
+
+    commencing @ 11.00 am BST
+    finished   @ 12.27 pm BST
+    
+What I did:
+
+  (1) I read the book called IPython Interactive Computing and Visualization
+      and selectively read only parts regarding machine learning
+  
