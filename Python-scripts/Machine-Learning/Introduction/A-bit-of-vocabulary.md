@@ -1,7 +1,7 @@
 # Learning from data
 
-cited from: _IPython Interactive Computing and Visualization Cookbook_
-                        _Chapter 8: Machine Learning_
+cited from: _IPython Interactive Computing and Visualization Cookbook_,
+                        _Chapter 8: Machine Learning_,
                                Packt Publishing
                         
 In machine learning, most data can be represented as a _table of numerical values_.
