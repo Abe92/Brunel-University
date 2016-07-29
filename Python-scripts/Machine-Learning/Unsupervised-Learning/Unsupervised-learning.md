@@ -1,7 +1,7 @@
 # Unsupervised learning
 
 Broadly speaking, __unsupervised learning__ helps us discover systemic structures in our data.
-It is harder to grasp than __supervised learning__, in that there is generally no precise question and anwer.
+It is harder to grasp than __supervised learning__, in that there is generally no precise question and answer.
 
 Here are a few important terms related to _unsupervised learning_:
 * __Clustering__: grouping similar points together within __clusters__
