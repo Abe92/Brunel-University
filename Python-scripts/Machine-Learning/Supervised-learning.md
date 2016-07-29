@@ -1,3 +1,5 @@
+# Supervised learning
+
 Mathematically, __supervised learning__ consists of finding a function _f_ that maps the set of points
 _E_ to a set of labels _F_, knowing a finite set of associations (_x_,_y_), which is given by our data.
 This is what _generalization_ is about: after observing the pairs (<code>x<sub>i</sub></code>, <code>y<sub>i</sub></code>,
